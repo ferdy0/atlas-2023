@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "Greggs",
+	"description": "The very famous streamer known as greggs",
+	"links": {
+		"website": [
+			"https://www.greggs.co.uk/"
+		]
+	},
+	"path": {
+		"": [
+			[
+				1082,
+				793
+			],
+			[
+				1082,
+				805
+			],
+			[
+				1101,
+				806
+			],
+			[
+				1100,
+				793
+			],
+			[
+				1079,
+				793
+			],
+			[
+				1079,
+				805
+			],
+			[
+				1086,
+				805
+			]
+		]
+	},
+	"center": {
+		"": [
+			1092,
+			799
+		]
+	}
+}
